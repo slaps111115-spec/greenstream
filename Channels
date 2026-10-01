@@ -87,15 +87,30 @@ http://92.119.165.177:8857/live/88/88/1314030.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/Jeem-HD-1-01.png",Jeem
 http://92.119.165.177:8857/live/88/88/1314029.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFw_gdNwRCnRFPNxEqmhgcj68nVnRAVc1ObLMIkBZJw2a_S0aRa3vHYRp2&s=10",TOD Sports 1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EdBs3J5g9ViQvuhMrpVXYs9OhQRIU0LGXKvrbvNDzFiT7B5bHI1YQUupV0Le7WduQ3NPtX2fXGi6x2fBJmROO10",TOD Sports 1
 http://92.119.165.177:8857/live/88/88/2016501.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFw_gdNwRCnRFPNxEqmhgcj68nVnRAVc1ObLMIkBZJw2a_S0aRa3vHYRp2&s=10",TOD Sports 2
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EdBs3J5g9ViQvuhMrpVXYs9OhQRIU0LGXKvrbvNDzFiT7B5bHI1YQUupV0Le7WduQ3NPtX2fXGi6x2fBJmROO10",TOD Sports 2
 http://92.119.165.177:8857/live/88/88/2016500.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFw_gdNwRCnRFPNxEqmhgcj68nVnRAVc1ObLMIkBZJw2a_S0aRa3vHYRp2&s=10",TOD Sports 3 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EdBs3J5g9ViQvuhMrpVXYs9OhQRIU0LGXKvrbvNDzFiT7B5bHI1YQUupV0Le7WduQ3NPtX2fXGi6x2fBJmROO10",TOD Sports 3 
 http://92.119.165.177:8857/live/88/88/2016499.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFw_gdNwRCnRFPNxEqmhgcj68nVnRAVc1ObLMIkBZJw2a_S0aRa3vHYRp2&s=10", TOD Sports 4
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EdBs3J5g9ViQvuhMrpVXYs9OhQRIU0LGXKvrbvNDzFiT7B5bHI1YQUupV0Le7WduQ3NPtX2fXGi6x2fBJmROO10", TOD Sports 4
 http://92.119.165.177:8857/live/88/88/2016498.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EdBs3J5g9ViQvuhMrpVXYs9OhQRIU0LGXKvrbvNDzFiT7B5bHI1YQUupV0Le7WduQ3NPtX2fXGi6x2fBJmROO10",TOD Sports 5
+http://92.119.165.177:8857/live/88/88/2016497.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EdBs3J5g9ViQvuhMrpVXYs9OhQRIU0LGXKvrbvNDzFiT7B5bHI1YQUupV0Le7WduQ3NPtX2fXGi6x2fBJmROO10",TOD Sports 6
+http://92.119.165.177:8857/live/88/88/2016496.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EdBs3J5g9ViQvuhMrpVXYs9OhQRIU0LGXKvrbvNDzFiT7B5bHI1YQUupV0Le7WduQ3NPtX2fXGi6x2fBJmROO10",TOD Sports 7
+http://92.119.165.177:8857/live/88/88/2016495.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EdBs3J5g9ViQvuhMrpVXYs9OhQRIU0LGXKvrbvNDzFiT7B5bHI1YQUupV0Le7WduQ3NPtX2fXGi6x2fBJmROO10",TOD Sports 8
+http://92.119.165.177:8857/live/88/88/2016494.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EdBs3J5g9ViQvuhMrpVXYs9OhQRIU0LGXKvrbvNDzFiT7B5bHI1YQUupV0Le7WduQ3NPtX2fXGi6x2fBJmROO10",TOD Sports 9
+http://92.119.165.177:8857/live/88/88/2016493.m3u8
 
