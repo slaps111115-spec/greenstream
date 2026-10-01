@@ -114,5 +114,17 @@ http://92.119.165.177:8857/live/88/88/2016494.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EdBs3J5g9ViQvuhMrpVXYs9OhQRIU0LGXKvrbvNDzFiT7B5bHI1YQUupV0Le7WduQ3NPtX2fXGi6x2fBJmROO10",TOD Sports 9
 http://92.119.165.177:8857/live/88/88/2016493.m3u8
 
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png",TOD Sports English 1
+http://92.119.165.177:8857/live/88/88/2016492.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png",TOD Sports English 2
+http://92.119.165.177:8857/live/88/88/2016491.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png",TOD Sports EXTRA 1
+http://92.119.165.177:8857/live/88/88/2016490.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLdyxtf.jpeg",TOD Sports EXTRA 2
+http://92.119.165.177:8857/live/88/88/2016489.m3u8
+
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png",Sport 5 4K
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12277/index.m3u8
