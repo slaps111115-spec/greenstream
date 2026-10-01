@@ -12,32 +12,32 @@ http://92.119.165.177:8857/live/88/88/544457.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png",beIN Sports News
 http://92.119.165.177:8857/live/88/88/544458.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sports 1 ʰᵉᵛᶜ
-http://92.119.165.177:8857/live/88/88/544491.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sports 1
+http://92.119.165.177:8857/live/88/88/706538.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN Sports 2 ʰᵉᵛᶜ
-http://92.119.165.177:8857/live/88/88/544490.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN Sports 2 
+http://92.119.165.177:8857/live/88/88/706537.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN Sports 3 ʰᵉᵛᶜ
-http://92.119.165.177:8857/live/88/88/544489.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN Sports 3 
+http://92.119.165.177:8857/live/88/88/706536.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN Sports 4 ʰᵉᵛᶜ
-http://92.119.165.177:8857/live/88/88/544488.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN Sports 4
+http://92.119.165.177:8857/live/88/88/706535.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",beIN Sports 5 ʰᵉᵛᶜ
-http://92.119.165.177:8857/live/88/88/544487.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",beIN Sports 5 
+http://92.119.165.177:8857/live/88/88/706534.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2021/02/beIN_SPORTS66_DIGITAL_Mono-01.png",beIN Sports 6 ʰᵉᵛᶜ
-http://92.119.165.177:8857/live/88/88/544486.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2021/02/beIN_SPORTS66_DIGITAL_Mono-01.png",beIN Sports 6 
+http://92.119.165.177:8857/live/88/88/706533.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",beIN Sports 7 ʰᵉᵛᶜ
-http://92.119.165.177:8857/live/88/88/544485.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",beIN Sports 7
+http://92.119.165.177:8857/live/88/88/706532.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS8.png",beIN Sports 8 ʰᵉᵛᶜ
-http://92.119.165.177:8857/live/88/88/544484.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS8.png",beIN Sports 8 
+http://92.119.165.177:8857/live/88/88/706531.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png",beIN Sports 9 ʰᵉᵛᶜ
-http://92.119.165.177:8857/live/88/88/544483.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png",beIN Sports 9
+http://92.119.165.177:8857/live/88/88/706530.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",beIN Sports English 1 ʰᵉᵛᶜ
 http://92.119.165.177:8857/live/88/88/544479.m3u8
