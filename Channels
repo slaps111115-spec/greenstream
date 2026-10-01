@@ -69,6 +69,12 @@ http://92.119.165.177:8857/live/88/88/1314049.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/SERIES2_DIGITAL_Mono.png",beIN Series 2
 http://92.119.165.177:8857/live/88/88/1314048.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/GOURMET_DIGITAL_Mono.png",beIN Gourmet
+http://92.119.165.177:8857/live/88/88/1314036.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuvp5A6m4emeBEHE8a4SbDSa189NlVBkK9UKW0O9BBbw&s",Fatafeat
+http://92.119.165.177:8857/live/88/88/467307.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2021/02/Drama_Stacked_nov_2024_200x200.png",beIN Drama
 http://92.119.165.177:8857/live/88/88/1314047.m3u8
 
