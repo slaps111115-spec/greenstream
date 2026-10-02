@@ -60,6 +60,30 @@ http://92.119.165.177:8857/live/88/88/544481.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTSXTRA3.png",beIN Sports XTRA 3 ʰᵉᵛᶜ
 http://92.119.165.177:8857/live/88/88/544480.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/2023_Alkass_1.png",Alkass 1
+http://92.119.165.177:8857/live/88/88/1201115.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/2023_Alkass_2.png",Alkass 2
+http://92.119.165.177:8857/live/88/88/1201114.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/2023_Alkass_3.png",Alkass 3
+http://92.119.165.177:8857/live/88/88/1201113.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/2023_Alkass_4.png",Alkass 4
+http://92.119.165.177:8857/live/88/88/1201112.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/2023_Alkass_5.png",Alkass 5
+http://92.119.165.177:8857/live/88/88/1201111.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrPSPSC.png",Alkass 6 
+http://92.119.165.177:8857/live/88/88/1201110.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/2023_Alkass_7.png",Alkass 7
+http://92.119.165.177:8857/live/88/88/1201109.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/2023_Alkass_8.png",Alkass 8
+http://92.119.165.177:8857/live/88/88/1201108.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png",beIN Movies 1
 http://92.119.165.177:8857/live/88/88/1314053.m3u8
 
