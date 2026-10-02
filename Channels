@@ -188,3 +188,12 @@ http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12277/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_gZGQ8FoUq44kW4rz8KSnkzt_cAGVEFgNNg&s",Realmadrid.tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports1/active/39a580d3ccb85b2faf56e4c2d4db0d3b.svg",Starzplay Sports 1
+http://92.119.165.177:8857/live/88/88/2063198.m3u8
+
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports2/active/821a4466626e1b3e2ffc7d25afe41058.svg",Starzplay Sports 2
+http://92.119.165.177:8857/live/88/88/2063197.m3u8
+
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports-active.svg",Starzplay Sports 3
+http://92.119.165.177:8857/live/88/88/2063196.m3u8
