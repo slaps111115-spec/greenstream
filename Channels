@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/4k_DIGITAL_Mono.png",beIN 4K
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/4k_DIGITAL_Mono.png",beIN 4K NM
 http://92.119.165.177:8857/live/88/88/983525.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/4k_DIGITAL_Mono.png",beIN 4K SS
+http://92.119.165.177:8857/live/88/88/706541.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",beIN Sports
 http://92.119.165.177:8857/live/88/88/544457.m3u8
@@ -56,6 +59,12 @@ http://92.119.165.177:8857/live/88/88/544481.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTSXTRA3.png",beIN Sports XTRA 3 ʰᵉᵛᶜ
 http://92.119.165.177:8857/live/88/88/544480.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",beIN Sports XTRA
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/BeIN_Sports_Xtra_en_Espanol.webp/revision/latest?cb=20240923145223",beIN Sports XTRA espana
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/2023_Alkass_1.png",Alkass 1
 http://92.119.165.177:8857/live/88/88/1201115.m3u8
