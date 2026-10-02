@@ -203,3 +203,12 @@ http://92.119.165.177:8857/live/88/88/2063197.m3u8
 
 #EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports-active.svg",Starzplay Sports 3
 http://92.119.165.177:8857/live/88/88/2063196.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxlys9pb5_N57XJfbMrgN0d4rbHwcKjIp3U4TOfYLBg&s=10",thmanayah 1 ʰᵉᵛᶜ
+http://92.119.165.177:8857/live/88/88/2063201.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxlys9pb5_N57XJfbMrgN0d4rbHwcKjIp3U4TOfYLBg&s=10",thmanayah 2 ʰᵉᵛᶜ
+http://92.119.165.177:8857/live/88/88/2063200.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxlys9pb5_N57XJfbMrgN0d4rbHwcKjIp3U4TOfYLBg&s=10",thmanayah 3 ʰᵉᵛᶜ
+http://92.119.165.177:8857/live/88/88/2063199.m3u8
