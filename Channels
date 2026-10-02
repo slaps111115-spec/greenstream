@@ -230,3 +230,6 @@ http://92.119.165.177:8857/live/88/88/1297398.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdbs6Bq8z46jGBulBG_VRfWW8TE6hOPqxpJKo2XVt1Qg&s",Al Fajer 5
 http://92.119.165.177:8857/live/88/88/1297396.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN-vldsVpQ4AnSwoxZIQan2Mv1nO_YV2a_qDkN3spLdE3QUsaTHfzBwK09&s=10",beIN Sports News FHD (Test) 
+http://premium2.ottpro2.org/live/alexandre/5939369/24979.m3u8
