@@ -216,6 +216,12 @@ http://92.119.165.177:8857/live/88/88/2063199.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMt_wG65fMyGhbCMubG8abv8VvAMllTaF7XojvctEoQ&s=10",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8KD3aXED_EHnCkOD-DzobmB5fYImftbEsb8QN6hJvdw&s=10",Ava Sport
+http://snaptv.show/live/artan.odja098754098576/09847350348975305/357551.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkQktv6Plx2uD_nQcD71ihKr6q3MNbn_zPnCw7W74WHDb8GGWeZomDMNza&s=10",NRT Sport
+http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807709.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdbs6Bq8z46jGBulBG_VRfWW8TE6hOPqxpJKo2XVt1Qg&s",Al Fajer 1
 http://92.119.165.177:8857/live/88/88/1297404.m3u8
 
