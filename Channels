@@ -120,6 +120,9 @@ http://92.119.165.177:8857/live/88/88/1314030.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/Jeem-HD-1-01.png",Jeem
 http://92.119.165.177:8857/live/88/88/1314029.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/beJUNIOR-1.png",be Junior
+http://92.119.165.177:8857/live/88/88/824098.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EdBs3J5g9ViQvuhMrpVXYs9OhQRIU0LGXKvrbvNDzFiT7B5bHI1YQUupV0Le7WduQ3NPtX2fXGi6x2fBJmROO10",TOD 4K
 http://92.119.165.177:8857/live/88/88/2016502.m3u8
 
