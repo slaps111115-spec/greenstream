@@ -57,12 +57,6 @@ http://92.119.165.177:8857/live/88/88/544481.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTSXTRA3.png",beIN Sports XTRA 3 ʰᵉᵛᶜ
 http://92.119.165.177:8857/live/88/88/544480.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2025/01/beIN_SPORTS_XTRA_04_bein.com_.png",beIN Sports XTRA 4
-http://92.119.165.177:8857/live/88/88/1301678.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2025/01/beIN_SPORTS_XTRA_05_bein.com_.png",beIN Sports XTRA 5 
-http://92.119.165.177:8857/live/88/88/1301677.m3u8
-
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/2023_Alkass_1.png",Alkass 1
 http://92.119.165.177:8857/live/88/88/1201115.m3u8
 
