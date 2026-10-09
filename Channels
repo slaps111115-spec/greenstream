@@ -260,3 +260,6 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png",Sport 2
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2n8DdK_1YW570fFka6lxYCWzgH1nHpvsI6EWTu-q&s=10",Eurosport 4K
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
