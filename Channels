@@ -254,3 +254,9 @@ http://77.46.130.252:99/maxsport2
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYm_6RoSsS4lso3XIWxmB0fkLkFoNCqnx4zpUtAbAGhQ&s=10",Max Sport 3
 http://77.46.130.252:99/maxsport3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",Sport 1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png",Sport 2
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
