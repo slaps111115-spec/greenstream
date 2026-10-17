@@ -39,7 +39,7 @@ https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/BeIN_Sports_Xtra_en_Espanol.webp/revision/latest?cb=20240923145223",beIN Sports XTRA espana
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png",Sport 5 4K
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png",Sport 5 4K (Not 24/7) 
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12277/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_gZGQ8FoUq44kW4rz8KSnkzt_cAGVEFgNNg&s",Realmadrid.tv
@@ -48,7 +48,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMt_wG65fMyGhbCMubG8abv8VvAMllTaF7XojvctEoQ&s=10",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8KD3aXED_EHnCkOD-DzobmB5fYImftbEsb8QN6hJvdw&s=10",AVA Sport
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8KD3aXED_EHnCkOD-DzobmB5fYImftbEsb8QN6hJvdw&s=10",AVA Sport 
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/285887.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkQktv6Plx2uD_nQcD71ihKr6q3MNbn_zPnCw7W74WHDb8GGWeZomDMNza&s=10",NRT Sport
@@ -69,8 +69,5 @@ http://77.46.130.252:99/maxsport3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYm_6RoSsS4lso3XIWxmB0fkLkFoNCqnx4zpUtAbAGhQ&s=10",Max Sport 4
 http://77.46.130.252:99/maxsport4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2n8DdK_1YW570fFka6lxYCWzgH1nHpvsI6EWTu-q&s=10",Eurosport 4K
-http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/V_sport_ultra_hd.svg",VSport UHD 4K
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/V_sport_ultra_hd.svg",VSport UHD 4K (Not 24/7) 
 http://103.176.90.137/play/live.php?mac=00:1A:79:C1:35:EB&stream=1749221&extension=ts
