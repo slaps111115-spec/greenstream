@@ -102,3 +102,6 @@ http://77.46.130.252:99/maxsport3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2n8DdK_1YW570fFka6lxYCWzgH1nHpvsI6EWTu-q&s=10",Eurosport 4K
 http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://eu4dual.education/wp-content/uploads/2025/10/test-1742552798284-2.jpg",VSport UHD 4K (test) 
+http://103.176.90.137/play/live.php?mac=00:1A:79:C1:35:EB&stream=1749221&extension=ts
+
