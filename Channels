@@ -41,3 +41,15 @@ http://77.46.130.252:99/maxsport4
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/V_sport_ultra_hd.svg",VSport UHD 4K (Not 24/7) 
 http://103.176.90.137/play/live.php?mac=00:1A:79:C1:35:EB&stream=1749221&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSshk-XZ4ImIFWo2-JSOTIqga3Qg_OW4O3rp-NSZd8wzQ&s",J Sports 1FHD (Test) 
+http://103.255.250.203:5002/bs18-frag25673735.ts?token=guoziyun&channel=zhongying&gid=bs18&range=39942241886600-39942244584776
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSshk-XZ4ImIFWo2-JSOTIqga3Qg_OW4O3rp-NSZd8wzQ&s",J Sports 2FHD (Test) 
+http://103.255.250.203:5002/bs19-frag23154934.ts?token=guoziyun&channel=zhongying&gid=bs19&range=39282446116548-39282448831832
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSshk-XZ4ImIFWo2-JSOTIqga3Qg_OW4O3rp-NSZd8wzQ&s",J Sports 3FHD (Test) 
+http://103.248.105.3:5002/bs21-frag26552982.ts?token=guoziyun&channel=zhongying&gid=bs21&range=38939282829356-38939285550092
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSshk-XZ4ImIFWo2-JSOTIqga3Qg_OW4O3rp-NSZd8wzQ&s",J Sports 4FHD (Test) 
+http://103.255.250.203:5002/bs22-frag25601797.ts?token=guoziyun&channel=zhongying&gid=bs22&range=39530503268508-39530505978716
