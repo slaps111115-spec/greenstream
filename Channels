@@ -12,8 +12,11 @@ https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/BeIN_Sports_Xtra_en_Espanol.webp/revision/latest?cb=20240923145223",beIN Sports XTRA espana
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png",Sport 5 4K (Not 24/7) 
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png",5 Sport 4K (Not 24/7) 
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12277/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png",5 Sport 4K (Server 2) 
+http://103.176.90.137/play/live.php?mac=00:1A:79:C1:35:EB&stream=1749220&extension=ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_gZGQ8FoUq44kW4rz8KSnkzt_cAGVEFgNNg&s",Realmadrid.tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
