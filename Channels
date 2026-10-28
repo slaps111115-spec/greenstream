@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sports 1 (test) 
-http://4u.eagle4u.org:2082/live/u6b587vh4a/b3iyjjtg54/114053.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlN4s28s0u48W2WBVN2Tf9wGpoeP3QSMtC5A&s",UFC (Not 24/7) 
 http://core.itsall.pro/megapeer/PQubhxj8KGGKSLPAKS/286225
 
@@ -47,3 +44,6 @@ http://77.46.130.252:99/maxsport4
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/V_sport_ultra_hd.svg",VSport UHD 4K (Not 24/7) 
 http://103.176.90.137/play/live.php?mac=00:1A:79:C1:35:EB&stream=1749221&extension=ts
+
+#EXTINF:-1 tvg-logo="",beIN 4K (test) 
+http://megatv.shop:2052//live/28959252935442/22113189913383/593209.ts
