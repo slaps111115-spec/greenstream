@@ -45,5 +45,17 @@ http://77.46.130.252:99/maxsport4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/V_sport_ultra_hd.svg",VSport UHD 4K (Not 24/7) 
 http://103.176.90.137/play/live.php?mac=00:1A:79:C1:35:EB&stream=1749221&extension=ts
 
-#EXTINF:-1 tvg-logo="",beIN 4K (test) 
-http://megatv.shop:2052//live/28959252935442/22113189913383/593209.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5X3tKC.png",Sport 1FHD
+http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxflVoU.png",Sport 2FHD
+http://88.212.15.50/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aV9zioW.png",Sport 3FHD
+http://stream.mcquack.net/393/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xW6oGIx.png",Sport 4SD
+http://stream.mcquack.net/394/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sport5UA.jpg",Sport 5FHD
+http://stream.mcquack.net/212/index.m3u8
