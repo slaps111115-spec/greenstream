@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlN4s28s0u48W2WBVN2Tf9wGpoeP3QSMtC5A&s",UFC (Not 24/7) 
 http://core.itsall.pro/megapeer/PQubhxj8KGGKSLPAKS/286225
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",beIN Sports XTRA
+#EXTINF:-1 tvg-logo="https://gizmeon.mdc.akamaized.net/thumbnails/fastchannel/1784625058150.png",beIN Sports XTRA
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/BeIN_Sports_Xtra_en_Espanol.webp/revision/latest?cb=20240923145223",beIN Sports XTRA espana
+#EXTINF:-1 tvg-logo="https://gizmeon.mdc.akamaized.net/thumbnails/fastchannel/1784625056799.png",beIN Sports XTRA espana
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png",5 Sport 4K (Not 24/7) 
